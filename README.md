@@ -18,7 +18,7 @@
 | **MOBO**       | `MSI MPG Z690 EDGE WIFI DDR4`                  |
 | **CPU**        | `Intel Core i9-12900KF @ 2.40 GHz`             |
 | **iGPU**       | `Unavailable`                                  |
-| **dGPU**       | `AMD Radeon RX580 8GB`                         |
+| **dGPU**       | `AMD Radeon RX6800 Reference 16GB`             |
 | **RAM**        | `GSkill Ripjaws V DDR4 2x16 GB @ 4000MHz CL18` |
 | **Storage**    | `Team Group MP33 512GB NVMe 3.0`               |
 | **LAN**        | `Intel I225-V 2.5Gbps LAN controller`          |
