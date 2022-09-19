@@ -27,7 +27,6 @@
 | **OS**         | `macOS Monterey 12.6 (21G115)`                 |
 | **BIOS**       | `xxxxx`                                        |
 
-
 ### Working/Not working:
 
 ###### Click on the arrow icons to expand the spoilers
