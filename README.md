@@ -82,5 +82,5 @@ If you encounter any issue, please file a bugreport [here](https://github.com/re
 * **Apple** for macOS
 * [**Acidanthera**](https://github.com/acidanthera) for OpenCore and the majority of the kexts
 * [**RehabMan**](https://github.com/RehabMan) for contributing to most of the ACPI patching guides used
-* [**dreamwhite**](https://github.com/dreamwhite) for helping me optimizing this EFI and creating this GitHub repository
-* **every other people that contributed to the hackintosh world :haha:**
+* [**dreamwhite**](https://github.com/dreamwhite) - creator of this repo
+* The hackintosh community
